@@ -1,0 +1,10 @@
+D:\prak kpl\tpmod3\tpmod3\bin\Debug\tpmod3.exe.config
+D:\prak kpl\tpmod3\tpmod3\bin\Debug\tpmod3.exe
+D:\prak kpl\tpmod3\tpmod3\bin\Debug\tpmod3.pdb
+D:\prak kpl\tpmod3\tpmod3\obj\Debug\tpmod3.csproj.AssemblyReference.cache
+D:\prak kpl\tpmod3\tpmod3\obj\Debug\tpmod3.Form1.resources
+D:\prak kpl\tpmod3\tpmod3\obj\Debug\tpmod3.Properties.Resources.resources
+D:\prak kpl\tpmod3\tpmod3\obj\Debug\tpmod3.csproj.GenerateResource.cache
+D:\prak kpl\tpmod3\tpmod3\obj\Debug\tpmod3.csproj.CoreCompileInputs.cache
+D:\prak kpl\tpmod3\tpmod3\obj\Debug\tpmod3.exe
+D:\prak kpl\tpmod3\tpmod3\obj\Debug\tpmod3.pdb
